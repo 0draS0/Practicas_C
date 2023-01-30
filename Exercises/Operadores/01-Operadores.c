@@ -35,7 +35,6 @@ int main() {
 	int w= q || t;
 	printf("\nEjercicio 3: w=%d",w);
 
-
 //Ejercicio 4
 	int e = 0, f = 0xA; // Variables con valores asignados
 	int p= e^f;
@@ -51,11 +50,29 @@ int main() {
 	int n= !v;
 	printf("\nEjercicio 4.1: n=%d",n);
 
-
 //Ejercicio 6
 	int a1=0xF, b1=0x1, c1=5; // Variables con valores asignados
 	int h= a1&b1^c1;
 	printf("\nEjercicio 4.1: h=%d",h);
+
+//Ejercicio 7
+	int i = -0x1F3;
+		i = i >>2;
+	printf("i=%d i=%x",i,i);
+
+//Ejercicio 8
+	int k = -072;
+	    k = k <<3;
+	printf("\nk=%d k=%o",k,k);
+
+//Ejercicio 9
+	int m = -1;
+	printf("\nm=%x m=%o m=%d",m,m,m);
+
+//Ejercicio 10
+	int f = 2147483647;
+	printf("f=%x f=%o f=%d", f,f,f);
+
 
 // Practica
 /*
