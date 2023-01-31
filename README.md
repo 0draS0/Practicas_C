@@ -4,7 +4,7 @@ _Repositorio con compendio de ejercicios académicos para la introducción al le
 <br>
 
 ## Situación de repositorio 📊️
-<img src="https://img.shields.io/badge/Coverage-0%25-FFB4A2?style=for-the-badge" />  <img src="https://img.shields.io/github/stars/0draS0/Practicas_HTML?color=FFB4A2&style=for-the-badge" />  <img src="https://img.shields.io/badge/Version-1.0-FFB4A2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Coverage-15%25-FFB4A2?style=for-the-badge" />  <img src="https://img.shields.io/github/stars/0draS0/Practicas_HTML?color=FFB4A2&style=for-the-badge" />  <img src="https://img.shields.io/badge/Version-1.0-FFB4A2?style=for-the-badge" />
 
 <br>
 
@@ -17,11 +17,16 @@ _Repositorio con compendio de ejercicios académicos para la introducción al le
 
 <br>
 
-##  - Directorio
+## Data_structures - Directorio
+Las practicas contenidas dentro de este repositorio son las estructuras que permiten manejar datos, para fines académicos se utilizaron como base datos de tipo ENTERO. Los programas hacen el llamado a un archivo _.h_ que contiene las definiciones de las funciones y los datos con los que se trabaja en el archivo _.c_.
+
+Las estructuras se encuentran divididas por: *Pila, Listas (simples, doble, circular y circular doblemente enlazada), Cola y Árbol*
+
+
+## Exercises - Directorio
 --
 
-
-##  - Directorio
+## Projects - Directorio
 --
 
 <br>
