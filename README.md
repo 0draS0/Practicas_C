@@ -21,11 +21,13 @@ _Repositorio con compendio de ejercicios académicos para la introducción al le
 Las practicas contenidas dentro de este repositorio son las estructuras que permiten manejar datos, para fines académicos se utilizaron como base datos de tipo ENTERO. Los programas hacen el llamado a un archivo _.h_ que contiene las definiciones de las funciones y los datos con los que se trabaja en el archivo _.c_.
 
 Las estructuras se encuentran divididas por: *Pila, Listas (simples, doble, circular y circular doblemente enlazada), Cola y Árbol*
-  
+<p align="center">
+  <img src="Resources/IMG_estructura.jpg" alt="Estructuras planteadas" height="400" width="600">
+</p>
 
 
 ## Exercises - Directorio
---
+Dentro del directorio se encuentran algunos ejercicios solicitados en clases, algunos cuentan con descripción del problema. Los programas se encuentran ordenados por los temas abarcados desde nivel medio superior a primer semestre de nivel superior. 
 
 ## Projects - Directorio
 --
