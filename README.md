@@ -35,4 +35,4 @@ Dentro del directorio se encuentran algunos ejercicios solicitados en clases, al
 <br>
 
 # LICENCIA ✅
-El repositorio es resultado de la recopilación de información sobre los usos de etiquetas y elementos gráficos de HTML y CSS con <b>fines académicos</b>.
+El repositorio es resultado de la recopilación de información sobre practicas, ejercicios y aplicaciones en el lenguaje C con <b>fines académicos</b>.
